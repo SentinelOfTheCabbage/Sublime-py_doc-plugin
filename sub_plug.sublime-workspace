@@ -1,0 +1,1404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"view",
+				"viewport_position"
+			],
+			[
+				"ac",
+				"active_view"
+			],
+			[
+				"window",
+				"window_id"
+			],
+			[
+				"si",
+				"sublime_plugin"
+			],
+			[
+				"subl",
+				"sublime_plugin"
+			],
+			[
+				"Tex",
+				"TextCommand"
+			],
+			[
+				"sum",
+				"sublime_plugin"
+			],
+			[
+				"Merge",
+				"MergeSort"
+			],
+			[
+				"find",
+				"find_elements_by_xpath"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"ch",
+				"chrome_options"
+			],
+			[
+				"delta",
+				"delta_cop"
+			],
+			[
+				"del",
+				"delta_cop"
+			],
+			[
+				"getcw",
+				"GETCWD"
+			],
+			[
+				"phas",
+				"phases_namelis"
+			],
+			[
+				"p",
+				"phases_namelist"
+			],
+			[
+				"phaase",
+				"phases_namelis"
+			],
+			[
+				"phases",
+				"phases_list"
+			],
+			[
+				"abs",
+				"abstractmethod"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"is_",
+				"is_elementary"
+			],
+			[
+				"is",
+				"is_elementary"
+			],
+			[
+				"mod",
+				"module_content"
+			],
+			[
+				"subli",
+				"sublime"
+			],
+			[
+				"module",
+				"module_content"
+			],
+			[
+				"mo",
+				"module_elements"
+			],
+			[
+				"sublim",
+				"sublime_plugin"
+			],
+			[
+				"inpt",
+				"input_file_path\t⟠"
+			],
+			[
+				"input",
+				"input_file_path\t⟠"
+			],
+			[
+				"inpu",
+				"input_file_path\t⟠"
+			],
+			[
+				"prod",
+				"product_key"
+			],
+			[
+				"back",
+				"back_update_stock"
+			],
+			[
+				"resu",
+				"result_priice"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"bonus",
+				"bonus_code"
+			],
+			[
+				"result",
+				"result_price"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"get_p",
+				"get_promocode_page"
+			],
+			[
+				"deliv",
+				"delivery_price"
+			],
+			[
+				"get",
+				"get_client_phone"
+			],
+			[
+				"message",
+				"message_id"
+			],
+			[
+				"fora",
+				"forward_message"
+			],
+			[
+				"cor",
+				"coder_id"
+			],
+			[
+				"studen",
+				"student_programmer"
+			],
+			[
+				"progr",
+				"programmer"
+			],
+			[
+				"progrr",
+				"programmers"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"shop",
+				"shop_name"
+			],
+			[
+				"shop_",
+				"shop_names"
+			],
+			[
+				"product",
+				"product_names"
+			],
+			[
+				"bra",
+				"branches"
+			],
+			[
+				"price",
+				"price_str"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"pol",
+				"polls_button"
+			],
+			[
+				"geol",
+				"geolo_button"
+			],
+			[
+				"phon",
+				"phone_button"
+			],
+			[
+				"smile",
+				"smile_button"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"cla",
+				"callback"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"CONT",
+				"content_text"
+			],
+			[
+				"dost",
+				"dost_price"
+			],
+			[
+				"callb",
+				"callback"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"middle",
+				"middle_button"
+			],
+			[
+				"left",
+				"left_buttons"
+			],
+			[
+				"admin",
+				"admin_id"
+			],
+			[
+				"messag",
+				"message_handler"
+			],
+			[
+				"curren",
+				"current_time"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"return",
+				"return_data"
+			],
+			[
+				"fetc",
+				"fetchall"
+			],
+			[
+				"for",
+				"frozenset\tclass"
+			],
+			[
+				"t",
+				"timedelta\tclass"
+			],
+			[
+				"callback_query_handel",
+				"callback_query_handler"
+			],
+			[
+				"stati",
+				"staticmethod"
+			],
+			[
+				"sta",
+				"staticmethod"
+			],
+			[
+				"order",
+				"orders_id_list"
+			],
+			[
+				"pack",
+				"pack_sizes"
+			],
+			[
+				"prodc",
+				"product_keys"
+			],
+			[
+				"clin",
+				"client_id"
+			],
+			[
+				"dest",
+				"dest_price"
+			],
+			[
+				"cur",
+				"current_time"
+			],
+			[
+				"branches",
+				"branches_container"
+			],
+			[
+				"cle",
+				"clients"
+			],
+			[
+				"clei",
+				"client_id"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"para",
+				"parameter_errors"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"basket",
+				"basket_keys"
+			],
+			[
+				"packs",
+				"pack_sizes"
+			],
+			[
+				"_get_",
+				"_get_products_list"
+			],
+			[
+				"produc",
+				"product_name"
+			],
+			[
+				"prd",
+				"products"
+			],
+			[
+				"on",
+				"on_call"
+			],
+			[
+				"DAT",
+				"DAY_DELTA"
+			],
+			[
+				"curre",
+				"current_phase"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"crea",
+				"creating"
+			],
+			[
+				"crede",
+				"crededential"
+			],
+			[
+				"creden",
+				"credentials"
+			],
+			[
+				"cours",
+				"course_id_list"
+			],
+			[
+				"course_",
+				"course_id"
+			],
+			[
+				"current",
+				"current_phase"
+			],
+			[
+				"cliet",
+				"client_info"
+			],
+			[
+				"restart",
+				"restart_arr"
+			],
+			[
+				"PHASES",
+				"PHASES_PKL_FILE"
+			],
+			[
+				"deli",
+				"delivery_price"
+			],
+			[
+				"phase",
+				"phase_number"
+			],
+			[
+				"NEW",
+				"NEW_PHASE_PHRASE"
+			],
+			[
+				"adm",
+				"adm_id"
+			],
+			[
+				"clien",
+				"client_info"
+			],
+			[
+				"clie",
+				"client_info"
+			],
+			[
+				"to",
+				"total_weight_kg"
+			],
+			[
+				"hea",
+				"my_header"
+			],
+			[
+				"Inl",
+				"InlineKeyboardMarkup"
+			],
+			[
+				"refer",
+				"refer_from"
+			],
+			[
+				"clear",
+				"clearplzX"
+			],
+			[
+				"orders",
+				"orders_pattern"
+			],
+			[
+				"_clien",
+				"_clients_get_query"
+			],
+			[
+				"_ord",
+				"_orders_cont_get_query"
+			],
+			[
+				"orders_",
+				"orders_content"
+			],
+			[
+				"мс",
+				"МС"
+			],
+			[
+				"from",
+				"from_user"
+			],
+			[
+				"cov",
+				"convert_result"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "myplug.py",
+			"settings":
+			{
+				"buffer_size": 1395,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/Sublime Text 3/sublime.py",
+			"settings":
+			{
+				"buffer_size": 38852,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Program Files/Sublime Text 3/sublime_plugin.py",
+			"settings":
+			{
+				"buffer_size": 36887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Tom/AppData/Roaming/Sublime Text 3/Packages/User/myplug.py",
+			"settings":
+			{
+				"buffer_size": 1419,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"origami right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"remove",
+				"Origami: Remove Saved Layout"
+			],
+			[
+				"origami",
+				"Origami: Save Current Layout"
+			],
+			[
+				"remover",
+				"Package Control: Remove Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"togmen",
+				"View: Toggle Menu"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"menu ",
+				"View: Toggle Menu"
+			],
+			[
+				"orig create",
+				"Origami: Create Pane Below"
+			],
+			[
+				"origami create",
+				"Origami: Create Pane Below"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"orig resto",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"save lay",
+				"Origami: Remove Saved Layout"
+			],
+			[
+				"restore",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"restor",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"origam res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"toglme",
+				"View: Toggle Menu"
+			],
+			[
+				"origami res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"origami rest",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"origres",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"origrest",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"orig reso",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				" orig reso",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"origa reso",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"menu togg",
+				"View: Toggle Menu"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"emove",
+				"Package Control: Remove Package"
+			],
+			[
+				"layout",
+				"Origami: Save Current Layout"
+			],
+			[
+				"origam",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"togl",
+				"View: Toggle Menu"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu tog",
+				"View: Toggle Menu"
+			],
+			[
+				"menu toggl",
+				"View: Toggle Menu"
+			],
+			[
+				"menu togl",
+				"View: Toggle Menu"
+			],
+			[
+				"toggl",
+				"View: Toggle Menu"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Jedi",
+				"SublimeJedi: GoTo Definition"
+			],
+			[
+				"jedi",
+				"SublimeJedi: Show Signature"
+			],
+			[
+				"pydoc",
+				"Python 3 Doc Search (PyDOC)"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash in background with selected word"
+			],
+			[
+				" toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"line",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"materia",
+				"Material Theme: Configuration"
+			],
+			[
+				"",
+				"Material Theme: Configuration"
+			],
+			[
+				"sspl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"materua",
+				"Material Theme: Configuration"
+			],
+			[
+				"Material",
+				"Material Theme: Configuration"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 297.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.run_command('example')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.run_command('example')",
+			"asdasdasd",
+			"view.run_command('example')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.run_command('example')",
+			"x",
+			"x = 1",
+			"x",
+			"view.run_command('example')",
+			"ExampleCommand",
+			"view.run_command('example')",
+			"t",
+			"t = view.run_command('example')",
+			"view.run_command('example')",
+			"t",
+			"print(t)",
+			"dir(t)",
+			"t = view.run_command('example')",
+			"view.run_command('example')",
+			"view.run_command('Example')",
+			"self.view.insert(edit, 0, \"Hello, World!\")",
+			"view.run_command('Example')",
+			"view.run_command('example')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.run_command('x')",
+			"view.run_command('x.py')",
+			"view.run_command('x')",
+			"view.run_command('myplug')",
+			"view.run_command('myplug'",
+			"view.run_command('myplug')",
+			"view.run_command('myplug.py')",
+			"ExampleCommand",
+			"view.run_command('myplug.py')",
+			"view.run_command('myplug')",
+			"view.run_command('myplug.py')",
+			"view.run_command('myplug')",
+			"view.run_command('x')",
+			"view.run_command('example')",
+			"cls",
+			"clear",
+			"сды",
+			"view.run_command('example')",
+			"module_content",
+			"view.run_command('example')",
+			"C:\\Users\\Tom\\Documents\\Python_projects\\SublimePlugin",
+			"view.run_command('example')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"restore_layout",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"dash_doc",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"line_padding_bottom = 10",
+			"line_padding_bottom = 5",
+			"line_padding_bottom = 3",
+			"indent_subsequent_lines = True",
+			"indent_subsequent_lines = False",
+			"caret_style = 'blink'",
+			"caret_style = 'phase'",
+			"caret_extra_top=500",
+			"caret_extra_top=50",
+			"caret_extra_top = 5",
+			"caret extra top 2",
+			"cas",
+			"caret_extra_top = 3",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"sa",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tom/Documents/Python_projects/SublimePlugin"
+	],
+	"file_history":
+	[
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Users/Tom/Documents/Python_projects/SublimePlugin/myplug.py",
+		"/C/Users/Tom/AppData/Roaming/Sublime Text 3/Packages/User/myplug.py",
+		"/C/Users/Tom/Documents/Python_projects/SublimePlugin/replacer.py",
+		"/C/Users/Tom/AppData/Roaming/Sublime Text 3/Installed Packages/Material Theme.sublime-package",
+		"/C/Users/Tom/AppData/Roaming/Sublime Text 3/Packages/User/x.py",
+		"/C/Users/Tom/Documents/Python_projects/SublimePlugin/README.md",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/25_sol.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/var0_1.tex",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/11.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/11.pas",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/11.cpp",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/9.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/21.cpp",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/9.pas",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/27.txt",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/22.txt",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/23.txt",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/25.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/22.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/25.pas",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/25.cpp",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/21.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/20.cpp",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/20.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/20.pas",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/19.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/13.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/8.py",
+		"/C/Users/Tom/Documents/Работа/ЕГЭ_ИНФ_ВАР_1/var1.tex",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/H.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/I.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/F.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/main.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/NewSettings.py",
+		"/C/Users/Tom/source/repos/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.cpp",
+		"/C/Users/Tom/Documents/Python_projects/TGB/1.json",
+		"/C/Users/Tom/AppData/Local/Temp/Rar$DIa3968.13450/models.py",
+		"/C/Users/Tom/AppData/Local/Temp/Rar$DIa3968.14075/views.py",
+		"/C/Users/Tom/AppData/Local/Temp/Rar$DIa3968.13898/urls.py",
+		"/C/Users/Tom/AppData/Local/Temp/Rar$DIa3968.13295/forms.py",
+		"/C/Users/Tom/AppData/Local/Temp/Rar$DIa3968.13092/admin.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/bkp.backup",
+		"/C/Users/Tom/Documents/Python_projects/TGB/lad/branches/admpanel/__init__.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/lad/db_teller.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/lad/NewSettings.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/BACKUPP.bkp",
+		"/C/Users/Tom/Downloads/BACKUPP.backup",
+		"/C/Users/Tom/Downloads/BACKUPP.bkp",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_6/03.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_6/02.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/MergeSort.py",
+		"/C/Users/Tom/Desktop/Python books/Alg/Совершенный_алгоритм_1.pdf",
+		"/C/Users/Tom/Documents/Python_projects/whatsappbot/me/m.py",
+		"/C/Users/Tom/Documents/Python_projects/Ya_parser/tmp.py",
+		"/C/Users/Tom/Documents/Python_projects/Ya_parser/g.py",
+		"/C/Users/Tom/Documents/Python_projects/Ya_parser/anus_keeper.py",
+		"/C/Users/Tom/Downloads/g.py",
+		"/C/Users/Tom/Documents/Python_projects/Ya_parser/maps.json",
+		"/C/Users/Tom/Documents/Python_projects/Ya_parser/venv/Lib/site-packages/urllib3/util/connection.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_5/13.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_5/14.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_5/03.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_4/13.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_4/12.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_4/07.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_3/19",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_3/11",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_3/06.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/wakemydyno.txt",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/B.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/phase_pattern.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/__init__.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/A.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/branch_pattern.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/__init__.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/bonuses/__init__.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/__init__.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/phase_pattern_.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/mkad.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/I.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/L.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/bonuses/MKAD.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/MKAD.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/__init__.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/MKAD.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/L.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/MKAD.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/H.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/K.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/J.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/G.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/F.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/E.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/D.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/steps/C.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/php.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/zero.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/bonuses/php.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/bonuses/zero.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/bonuses/steps/A.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/bonuses/steps/B.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/php.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/steps/A.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/steps/B.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/steps/C.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/steps/D.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/feedback/steps/E.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/php.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/zero.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/A.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/B.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/C.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/D.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/E.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/G.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/J.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/K.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/zshop/steps/M.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/main_menu.py",
+		"/C/Users/Tom/Documents/Python_projects/TGB/Ref_v1.1/branches/admpanel/phase_pattern.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_2/25.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_2/30.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_2/36.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_2/37.py",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_2/35",
+		"/C/Users/Tom/Documents/Python_projects/Algorithms/putintseva/week_2/29"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 184.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"class ",
+			"Region",
+			"class ",
+			"pos",
+			"position",
+			"Region",
+			"Region(",
+			"Region",
+			"class View(",
+			"get_status(",
+			"get_status",
+			"get_status(",
+			"get_status",
+			"def get_",
+			"View",
+			"View(",
+			"active_view(",
+			"View(",
+			"class View(",
+			"View(",
+			"view(",
+			"View(",
+			"insert(",
+			"run_(",
+			"TextCommand",
+			"begin_edit",
+			"begin_edit(",
+			"Edit(",
+			"class Edit",
+			"insert(",
+			"Window(",
+			"View(",
+			"Window(",
+			"window_id = ",
+			"window_id",
+			"def get",
+			"get",
+			"def view(",
+			"def view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "myplug.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files/Sublime Text 3/sublime.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28342,
+								28348
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14970.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files/Sublime Text 3/sublime_plugin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36887,
+								36887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/C/Users/Tom/AppData/Roaming/Sublime Text 3/Packages/User/myplug.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 214.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 102.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 308.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "sub_plug.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"03.py"
+			],
+			[
+				"B.p",
+				"branches\\admpanel\\steps\\B.py"
+			],
+			[
+				"B.py",
+				"branches\\admpanel\\steps\\B.py"
+			],
+			[
+				"I",
+				"steps\\I.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
